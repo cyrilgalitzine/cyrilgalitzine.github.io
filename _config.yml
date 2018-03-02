@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/cyrilgalitzine/
+linkedin: cyrilgalitzine
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/cyrilgalitzine
+github: cyrilgalitzine
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -58,13 +58,13 @@ authors:
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.png
-        twitter: johndoe
+        #twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
         external-image: false
         picture: assets/images/james.jpg
-        twitter: jamesfoster
+        #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
