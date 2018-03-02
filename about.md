@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>I am a computational biologist with a background in Aerospace Engineering.
-	I received my PhD in Aerospace Engineering from the [University of Michigan](http://ngpdlab.engin.umich.edu/) where I worked on the [Monte Carlo](https://en.wikipedia.org/wiki/Direct_simulation_Monte_Carlo) simulation of hypersonic rarefied gas flows.  </p>
+	I received my PhD in Aerospace Engineering from the [University of Michigan](http://ngpdlab.engin.umich.edu/) where I worked on the [Monte Carlo](https://en.wikipedia.org/wiki/Direct_simulation_Monte_Carlo) simulation of hypersonic rarefied gas flows.  I am currently a Postdoc at [Northeastern University](https://olga-vitek-lab.ccis.northeastern.edu) where I am working on learning and inference in Computational Systems Biology.</p>
 
 
 <h2>Skills</h2>
