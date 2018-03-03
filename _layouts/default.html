@@ -3,6 +3,11 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="en">
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 <head>
 
     <meta charset="utf-8">
