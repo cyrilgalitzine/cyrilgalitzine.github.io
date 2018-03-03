@@ -3,7 +3,7 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="en">
-
+{% include analytics-google.html %}
 
 <head>
 
@@ -29,7 +29,7 @@ layout: compress
 </head>
 
 
-{% include analytics-google.html %}
+
 <body>
 
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
