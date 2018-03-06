@@ -51,6 +51,11 @@ github: cyrilgalitzine
 # lanyrd: mylanyrd
 email: cyrildgg<at>gmail<dot>com
 
+resume: true
+resume-external: false
+resume-url: /resume_cyril.pdf
+
+
 authors:
     johndoe:
         name: Cyril Galitzine
