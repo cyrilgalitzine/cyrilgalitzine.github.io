@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Inference of stochastic organelle dynamics"
 layout: post
 date: 2018-02-01 22:01
 tag: Inference
