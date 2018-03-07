@@ -1,19 +1,21 @@
 ---
-title: "Basic Bayesian inference of SDE rates"
+title: "Markdown Extra Components"
 layout: post
-blog: true
-draft: false
-date: 2018-03-01 22:01
-tag: Inference, MCMC, SDE, Metropolis-Hastings, Monte Carlo
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2016-02-24 22:48
+image: /assets/images/markdown.jpg
 headerImage: false
-hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+tag:
+- markdown
+- components
+- extra
 category: blog
-author: cg
+author: jamesfoster
+description: Markdown summary with different options
+
 ---
 
-test
+## Summary:
 
+You can pick as item to see how to apply in markdown.
 
-
+---
