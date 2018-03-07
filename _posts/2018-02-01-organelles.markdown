@@ -21,7 +21,7 @@ We introduced a novel approach that integrates modeling, Bayesian inference and 
 It also relies on a novel microscopy workflow that monitors peroxisomes over long periods of time in cell culture. Evaluations on simulated datasets demonstrated the advantages of this approach in terms of increased accuracy and shortened computation time. An application to imaging of peroxisomes determined that fission, rather than de novo generation, is predominant in maintaining the organelle level under basal conditions. This biological insight serves as a starting point for a system view of organelle regulation in cells.
 
 This work will be presented at the [2018 RECOMB conference ](https://recomb2018.fr/) and published in the conference proceedings. 
-You can find a preprint of this paper [here](https://recomb2018.fr/). The source code, input files and examples are availabe on [github](https://github.com/cyrilgalitzine/Organelle).
+You can find a preprint of this paper [here](https://cyrilgalitzine.github.io/assets/documents/peroxisome_dynamics_preprint_02_2018.pdf). The source code, input files and examples are availabe on [github](https://github.com/cyrilgalitzine/Organelle).
 
 
 
