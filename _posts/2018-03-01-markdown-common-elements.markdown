@@ -22,7 +22,7 @@ You can pick as item to see how to apply in markdown.
 - [Especial Breaker](#especial-breaker)
 - [Spoiler](#spoiler)
 
-#### External Elements
+#### External Elementss
 - [Gist](#gist)
 - [Codepen](#codepen)
 - [Slideshare](#slideshare)
