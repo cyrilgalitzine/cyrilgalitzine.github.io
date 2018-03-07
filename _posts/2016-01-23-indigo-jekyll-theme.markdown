@@ -12,7 +12,7 @@ category: project
 author: cg
 externalLink: false
 ---
-
+This work will be presented at the [2018 RECOMB conference ](https://recomb2018.fr/) 
 
 
 ---
