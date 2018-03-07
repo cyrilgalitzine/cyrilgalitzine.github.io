@@ -3,7 +3,7 @@ title: "Inference of stochastic organelle dynamics"
 layout: post
 date: 2018-02-01 22:01
 tag: Inference, MCMC, SDE, Particle filter
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://cyrilgalitzine.github.io/assets/images/timeseries.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
