@@ -14,7 +14,7 @@ description: Markdown summary with different options
 
 ---
 
-## Summary:
+## Summarry:
 
 You can pick as item to see how to apply in markdown.
 
