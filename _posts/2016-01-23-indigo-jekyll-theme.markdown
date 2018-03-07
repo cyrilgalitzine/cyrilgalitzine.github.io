@@ -17,6 +17,7 @@ We introduced a novel approach that integrates modeling, Bayesian inference and 
 
 This work will be presented at the [2018 RECOMB conference ](https://recomb2018.fr/) and published in the conference proceedings. 
 You can find a preprint of this paper [here](https://recomb2018.fr/). The source code, input files and examples are availabe on [github](https://github.com/cyrilgalitzine/Organelle).
----
+
+
 
 
