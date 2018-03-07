@@ -1,6 +1,8 @@
 ---
 title: "Basic Bayesian inference of SDE rates"
 layout: post
+blog: true
+draft: false
 date: 2018-03-01 22:01
 tag: Inference, MCMC, SDE, Metropolis-Hastings, Monte Carlo
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
