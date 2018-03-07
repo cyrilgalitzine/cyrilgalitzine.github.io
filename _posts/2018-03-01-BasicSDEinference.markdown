@@ -13,23 +13,7 @@ category: blog
 author: cg
 ---
 
-## Summary:
-
-You can pick as item to see how to apply in markdown.
-
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
-
-#### External Elements
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos
-
+test
 
 
 
