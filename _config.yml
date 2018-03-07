@@ -78,7 +78,7 @@ width: large
 google_verify: IrIo-b_5wtYde8KHptLUh6kXQkOsu1nkqn4WoZkZt80
 
 
-# if you don't need pagination, comment the *paginate* configs below
+# if you don't need pagination, comment the *paginate* configs beloww
 # paginate: 5
 # paginate_path: "blog/:num/"
 
