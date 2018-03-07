@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "Basic Bayesian inference of SDE rates"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
+author: cg
 description: Markdown summary with different options
 
 ---
