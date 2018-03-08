@@ -85,7 +85,7 @@ google_verify: IrIo-b_5wtYde8KHptLUh6kXQkOsu1nkqn4WoZkZt80
 # if you don't need projects, comment the *projects* configs beloww
 projects: true
 
-# if you don't need "about" or "blog", comment them out beloow
+# if you don't need "about" or "blog", comment them out below
 
 blog: true
 about: true
