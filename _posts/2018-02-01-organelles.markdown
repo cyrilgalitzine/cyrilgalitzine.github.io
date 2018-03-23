@@ -7,7 +7,7 @@ image: https://cyrilgalitzine.github.io/assets/images/timeseries.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat nodles."
 category: project
 author: cg
 externalLink: false
